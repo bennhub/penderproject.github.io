@@ -11,7 +11,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  background-color: #040404;
+  background-color: #fff;
   color: #fff;
   position: relative;
   background: transparent;
@@ -19,7 +19,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/bg.jpg") top right no-repeat;
+  background: #fff url("../img/bg.jpg") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
@@ -1042,7 +1042,7 @@ section .container {
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  background-color: #040404;
+  background-color: #fff;
   color: #fff;
   position: relative;
   background: transparent;
@@ -1050,7 +1050,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/penderi.jpg") top right no-repeat;
+  background: #fff url("../img/penderi.jpg") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
@@ -1165,7 +1165,7 @@ h1, h2, h3, h4, h5, h6 {
   left: 0;
   top: 0;
   right: 0;
-  background: rgba(0, 0, 0, 0.9);
+  background: rgba(243, 243, 243, 0.966);
 }
 #header.header-top .social-links, #header.header-top h2 {
   display: none;
@@ -1334,7 +1334,7 @@ section.section-show {
   padding-bottom: 45px;
 }
 section .container {
-  background: rgba(0, 0, 0, 0.9);
+  background: rgba(255, 254, 254, 0.966);
   padding: 30px;
 }
 @media (max-width: 768px) {
@@ -1416,7 +1416,7 @@ section .container {
   width: 100%;
   position: relative;
   text-align: center;
-  background: rgba(255, 255, 255, 0.08);
+  background: rgba(251, 247, 247, 0.966);
 }
 .counts .count-box i {
   position: absolute;
